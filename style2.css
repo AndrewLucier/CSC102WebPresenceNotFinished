@@ -1,0 +1,17 @@
+body{
+    background-color: forestgreen;
+    color: yellow;
+}
+
+header{
+    text-align: center;
+}
+
+nav{
+    padding: 5px;
+    line-height: 30px;
+}
+
+footer{
+    text-align: center;
+}
